@@ -1,0 +1,33 @@
+/* google font poppins */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Poppins:wght@400;700&family=Roboto+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Roboto:wght@400;700&display=swap');
+
+body{
+  font-family: poppins;
+}
+.line-h i{
+    font-size: 20px;
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+.line-h span{
+    line-height: 30px;
+    padding-left: 15px;
+    font-size: 16px;
+    
+}
+.btn-hover:hover button{
+    background-color: blue;
+    border-radius: 30px;
+    transition:  1s ease-out;
+}
+.btn-hover:hover button span {
+    color:#fff;
+}
+#hot-package{
+    background-color: #3F87F5;
+   padding: 20px;
+   border-radius: 20px;
+   
+}
