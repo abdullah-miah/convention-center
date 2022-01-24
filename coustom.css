@@ -31,3 +31,9 @@ body{
    border-radius: 20px;
    
 }
+.galary-pic-1{
+    background-image: url(images/Gallery/resized-image-Promo\ \(1\).jpeg);
+    width: 400px;
+    height: 450px;
+    
+}
